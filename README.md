@@ -1,5 +1,4 @@
 # Desafio Código
-Obs.: A implementação do front não foi necessária.
 
 O que queremos com esse desafio? 
 
@@ -33,7 +32,7 @@ Exemplos:
 
 ## **Observações:**
 
-**Frontend/Mobile**
+**Frontend/Mobile** (A implementação do front não foi necessária.)
 
 Os produtos cadastrados enquanto a aplicação estiver offline, deverá ser enviada após reestabelecer a conexão
 
